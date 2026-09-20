@@ -1,0 +1,267 @@
+SYNPHONOS
+Licence, terms of use and privacy notice
+
+Version 1.0, 20 September 2026
+Copyright (c) 2026 the author of Synphonos. All rights reserved.
+
+
+## In short
+
+Synphonos is free. Install it on as many machines as you like, and pass the
+unchanged program on to whoever you want. It makes no network connections
+and collects nothing about you or about your show. It comes with no
+warranty beyond what the law insists on: it is a tool for live work, and
+deciding whether to trust it with a show, testing it first, and having a
+fallback if it stops, are yours to do. Donations are gifts, not purchases.
+
+This summary is here to be read. The sections below are the agreement.
+
+
+## 1. This agreement
+
+This agreement is between you and the author of Synphonos ("we", "us"). By
+installing or using Synphonos you accept it. If you do not accept it, do
+not use the program.
+
+If you are using Synphonos in the course of a business, or on behalf of an
+employer, a client, a venue or a production, you accept this agreement on
+behalf of that business and you confirm you are able to.
+
+
+## 2. Licence
+
+We grant you a licence to use Synphonos, free of charge, without limit of
+time, for any purpose including commercial and professional work. Under
+that licence you may:
+
+- install and run the program on as many machines as you like, including
+  machines belonging to an employer or a client;
+- make copies of it for backup, for a backup rig, or for a rig you are
+  hiring out;
+- give it to other people or make it available for download, so long as
+  you pass it on complete and unchanged, free of charge, and with this
+  document included.
+
+You may not:
+
+- sell it, rent it, or charge for it, or include it in a paid product or a
+  paid bundle, without our written permission;
+- distribute it changed, repackaged, bundled with other software, or
+  wrapped in an installer of your own;
+- remove or alter this document, the third-party notices, the program's
+  name or its version information;
+- use the name Synphonos, or the program's icon, for anything other than
+  referring to this program.
+
+Except where the law says otherwise, you may not reverse engineer,
+decompile or disassemble the program. Nothing in this paragraph affects
+any right you have under sections 47B to 47F of the Copyright Act 1968
+(Cth), or under equivalent law where you are, to reproduce or decompile
+the program for interoperability, error correction or security testing.
+
+We keep all rights not expressly granted here. This is a licence, not a
+sale: you own your copy of the program, we own the program.
+
+
+## 3. No warranty
+
+Subject to section 5, Synphonos is supplied as is and as available. To the
+fullest extent the law allows, we make no warranties, conditions or
+representations of any kind, whether express or implied, and in particular
+we do not warrant that:
+
+- it is fit for any particular purpose, including any live, broadcast or
+  show-critical purpose;
+- it will run without interruption, without error, without crashing, or
+  without losing, drifting or stopping timecode;
+- it is compatible with your audio hardware, your MIDI hardware, your
+  lighting or playback console, or any other software on your machine;
+- any defect will be corrected, or that any update or support will be
+  offered at all.
+
+No statement made anywhere else about Synphonos is a warranty. That
+includes its documentation, its website, release notes, forum or social
+media posts, and anything said to you in conversation or in reply to a
+report of a problem. This document is the whole of the agreement between
+us, and you agree you have not relied on anything outside it.
+
+
+## 4. Live use is your decision, and your risk
+
+Synphonos generates timecode that other equipment may follow. A failure of
+that timecode, of the program, or of the machine it runs on, can stop or
+disrupt a performance. You understand and accept that.
+
+It is for you, and not for us, to:
+
+- decide whether Synphonos is suitable for a given show at all;
+- test it on the actual rig, with the actual console and the actual show
+  files, before it is relied on;
+- provide a fallback, a backup rig or a manual method of running the show
+  if it stops;
+- satisfy yourself that the machine, the audio device and the MIDI path
+  are fit for live use, and configured and maintained for it;
+- tell whoever is responsible for the production what you are using, and
+  agree with them who carries the risk if it fails.
+
+If you cannot accept a failure mid-show, do not run the show on Synphonos
+alone. Use it with a fallback, or do not use it.
+
+
+## 5. Liability, and your rights under the Australian Consumer Law
+
+Nothing in this agreement excludes, restricts or modifies any guarantee,
+right or remedy you have under the Australian Consumer Law, or under any
+other law, that cannot lawfully be excluded, restricted or modified. That
+includes our liability for death or personal injury caused by our
+negligence, and for fraud. Where such a guarantee or right applies, it
+prevails over anything in this agreement that is inconsistent with it.
+
+Where the Australian Consumer Law permits us to limit our liability for a
+failure to comply with a guarantee, our liability is limited, at our
+option, to supplying the software to you again or paying the cost of
+having it supplied to you again. Synphonos is supplied free of charge and
+can be downloaded again at no cost.
+
+Subject to the two paragraphs above, and to the fullest extent the law
+allows:
+
+- we are not liable for any indirect or consequential loss, and in
+  particular not for lost profit, lost business, lost bookings, lost
+  contracts, lost fees, lost goodwill, reputational harm, wasted
+  expenditure, the cost of hiring replacement equipment or staff, refunds
+  or compensation you have to pay to anybody else, or lost or corrupted
+  data, however caused;
+- we are not liable for any loss arising from a performance, broadcast,
+  recording, rehearsal or event being delayed, interrupted, abandoned,
+  cancelled or spoiled, whatever part Synphonos played in it;
+- our total liability to you for everything arising out of or connected
+  with Synphonos, whether in contract, in tort including negligence, under
+  statute or otherwise, will not exceed 100 Australian dollars.
+
+Synphonos is supplied free of charge. That is reflected in these limits,
+and any donation you make does not change them.
+
+
+## 6. Your indemnity
+
+The show you run may belong to somebody else: a client, a venue, a
+production company, a broadcaster, a promoter. They have not entered into
+this agreement and we have no relationship with them.
+
+If any such person brings a claim against us arising out of your use of
+Synphonos, you will indemnify us against that claim and against the
+reasonable costs of dealing with it. This does not apply to anything we
+are not permitted by law to exclude, does not apply to a claim that arises
+from our own fraud, and is reduced to the extent that our own acts caused
+the loss.
+
+
+## 7. Donations
+
+Donations are voluntary gifts. They are not a purchase, a subscription or a
+fee. They do not buy a different version of the program, a licence on
+different terms, support, updates, features, priority, or any obligation on
+our part to do anything at all. They are not refundable. Donating does not
+make this agreement any different for you than for anyone else, and in
+particular does not change sections 3, 4, 5 or 6.
+
+
+## 8. Components made by other people
+
+Synphonos is built from open-source components. Every one of them, the
+licence it is used under, and the full text of that licence, are listed
+under "Licences and third-party notices" in the About window, and in the
+file THIRD-PARTY-NOTICES.txt.
+
+Some of those components are licensed to you directly by their authors,
+under their own licences, and not by us. Where one of those licences gives
+you rights that are wider than the ones in section 2, those wider rights
+apply to that component. In particular, nothing in this agreement limits,
+alters or conditions any right you have in the source code of components
+used under the Mozilla Public License 2.0.
+
+
+## 9. Changes, and ending this licence
+
+We may publish these terms in a changed form with a later version of
+Synphonos. A change never applies backwards: the version of this document
+that came with your copy is the one that governs your use of that copy.
+
+This licence ends automatically if you break section 2. You may end it at
+any time by deleting the program. Sections 3, 4, 5, 6 and 10 carry on
+after it ends.
+
+
+## 10. Law
+
+This agreement, and any dispute arising out of it or out of your use of
+Synphonos, is governed by the law of the State of Victoria, Australia, and
+by the federal law of the Commonwealth of Australia that applies there.
+The courts of Victoria have exclusive jurisdiction, and you submit to
+them.
+
+This agreement is between you and us alone. No other person has any right
+to enforce any part of it. If any part of it is held to be unenforceable,
+that part is severed and the rest of it carries on.
+
+
+## Privacy notice
+
+The rest of this document explains what Synphonos does with information.
+We are not required to publish a privacy policy: the Privacy Act 1988
+(Cth) applies to organisations above a turnover threshold that Synphonos
+is nowhere near. It is written anyway, because you should be able to know
+what a program does with your information before you run it.
+
+
+## 11. The short answer
+
+Synphonos does not collect anything, does not send anything anywhere, and
+does not connect to the internet. There is no account, no sign-in, no
+registration, no licence check, no update check, no analytics, no
+telemetry, no crash reporting service and no advertising. Nothing you load
+into it, and nothing about your show, leaves your machine.
+
+The only outbound thing Synphonos ever does is ask Windows to open a web
+page in your browser, and only when you click one of the links in the
+program: the loopMIDI download page, the Symphonia source repository, or
+the donation page. That is your browser making that connection, on your
+instruction, and the site you land on has its own privacy policy.
+
+
+## 12. What Synphonos writes on your own machine
+
+These files stay on your machine. We never see them.
+
+- settings.toml, in your user profile's application data folder, under
+  tcgen. It holds your audio device and MIDI port names, your key
+  assignments, the colours you chose, the show last open and the playhead
+  position.
+- Show files, with the extension .synshow, wherever you save them. They
+  hold your set list, the paths of your audio files, the start offsets and
+  the marks.
+- crash.log, beside settings.toml, written only if the program falls over.
+  It holds the reason and where in the program it happened.
+
+Be aware that these files contain file paths, and that a Windows file path
+usually contains your account name, and may contain a client's or a
+production's name. That matters only if you choose to send one on.
+
+
+## 13. If you send us something
+
+Nothing reaches us unless you send it. If you do choose to send us a
+report of a problem, whatever you put in it is what we hold: your message,
+whatever address you sent it from, and any crash log, show file, settings
+file or diagnostics you attached. We use it only to work out what went
+wrong, and we delete it once we are done with it. Take a look at what you
+are attaching first, and take out anything you would rather not send.
+
+If you donate, the donation is handled by the donation service, who are
+their own data controller and have their own privacy policy. We see
+whatever their dashboard shows us, which may include the name you gave and
+your message. We do not put donors on a mailing list.
+
+We do not sell anything about you, do not share it for advertising, and do
+not use it to make any automated decision.
