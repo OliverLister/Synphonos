@@ -9,13 +9,21 @@
 Synphonos plays your audio and sends SMPTE timecode locked to where that audio has
 got to. Press Play, and the console follows.
 
-[**Download for Windows**](../../releases/latest) · [What it does](#what-it-does) · [Quick start](#quick-start) · [If something goes wrong](#if-something-goes-wrong)
+[**Download for Windows**](../../releases/latest) · [Watch the demo](#see-it-run) · [What it does](#what-it-does) · [Quick start](#quick-start) · [If something goes wrong](#if-something-goes-wrong)
 
 Windows 10/11 · 64-bit · one file · free
 
 </div>
 
 ---
+
+## See it run
+
+[![The Synphonos demo on YouTube: download it, set up timecode in grandMA2, press Play (2:59)](docs/demo-video.jpg)](https://www.youtube.com/watch?v=pcTgkhOVEvU)
+
+Three minutes, from the download to the desk following the music: download it, load a
+song, set up the timecode in grandMA2, and press Play.
+[Watch on YouTube](https://www.youtube.com/watch?v=pcTgkhOVEvU).
 
 ## Download
 
