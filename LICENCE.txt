@@ -1,7 +1,7 @@
 SYNPHONOS
 Licence, terms of use and privacy notice
 
-Version 1.0, 20 September 2026
+Version 1.1, 12 October 2026
 Copyright (c) 2026 the author of Synphonos. All rights reserved.
 
 
@@ -229,20 +229,38 @@ program: the loopMIDI download page, the Symphonia source repository, or
 the donation page. That is your browser making that connection, on your
 instruction, and the site you land on has its own privacy policy.
 
+If you keep a show or its audio on a network drive, Windows reads them
+over your network, as it would for any program. Synphonos opens audio on
+another computer only for a show that is kept on that same shared folder:
+a show file from somewhere else cannot point it at a computer of its own
+choosing.
+
 
 ## 12. What Synphonos writes on your own machine
 
-These files stay on your machine. We never see them.
+These files stay where you put them. We never see them.
 
 - settings.toml, in your user profile's application data folder, under
-  tcgen. It holds your audio device and MIDI port names, your key
-  assignments, the colours you chose, the show last open and the playhead
-  position.
-- Show files, with the extension .synshow, wherever you save them. They
-  hold your set list, the paths of your audio files, the start offsets and
-  the marks.
+  tcgen, unless you move it (the Files window). It holds your audio device
+  and MIDI port names, your key assignments, the colours you chose, the
+  show last open and the shows opened lately, where exports were last
+  written, where the window was, and the playhead position. If you move
+  it, a one-line file, settings-folder.txt, stays behind in the
+  application data folder to say where it went.
+- Show files, with the extension .synshow, wherever you save them, and for
+  a moment while one is being saved a .synshow.tmp file beside it. They
+  hold your set list, the paths of your audio files, the start offsets,
+  the marks, each song's tempo, the sequences and their cues with any
+  times, commands and notes you gave them, and what was last exported to a
+  console and when. If a show cannot be read, work goes to a
+  .synshow.recovered file beside it and the show is left alone.
+- Export files, written only when you press Export, where you tell it:
+  grandMA onPC's own folder on this machine, a USB stick, or a folder you
+  choose. They hold the names of the show, the song, its sequences and its
+  cues, the cues' times, and any cue commands you chose to write.
 - crash.log, beside settings.toml, written only if the program falls over.
-  It holds the reason and where in the program it happened.
+  It holds the time, the version, the reason and where in the program it
+  happened.
 
 Be aware that these files contain file paths, and that a Windows file path
 usually contains your account name, and may contain a client's or a
