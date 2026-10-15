@@ -10,7 +10,7 @@ Synphonos plays your audio and sends SMPTE timecode locked to where that audio h
 got to. Press Play, and the console follows. Since 1.1 it also holds your cues: place
 them on the song, and export them to grandMA2 or grandMA3.
 
-[**Download for Windows**](../../releases/latest) · [Watch the demo](#see-it-run) · [What it does](#what-it-does) · [Quick start](#quick-start) · [Programming a console](#programming-a-console) · [If something goes wrong](#if-something-goes-wrong)
+[**Download for Windows**](../../releases/latest) · [Watch the videos](#see-it-run) · [What it does](#what-it-does) · [Quick start](#quick-start) · [Programming a console](#programming-a-console) · [If something goes wrong](#if-something-goes-wrong)
 
 Windows 10/11 · 64-bit · one file · free
 
@@ -20,14 +20,26 @@ Windows 10/11 · 64-bit · one file · free
 
 ## See it run
 
-[![The Synphonos demo on YouTube: download it, set up timecode in grandMA2, press Play (2:59)](docs/demo-video.jpg)](https://www.youtube.com/watch?v=pcTgkhOVEvU)
+Two short videos, from the download to the desk following the music.
 
-Three minutes, from the download to the desk following the music: download it, load a
-song, set up the timecode in grandMA2, and press Play.
-[Watch on YouTube](https://www.youtube.com/watch?v=pcTgkhOVEvU).
-
-The video was recorded on 1.0. The window looks different in 1.1, and the output
-settings are now behind the cog in the bottom right corner.
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://www.youtube.com/watch?v=IdgJ8q4Xi3k"><img src="docs/demo-video-1-1.jpg" alt="The Synphonos 1.1 video on YouTube: place cues on the song and send them to grandMA2 (3:31)"></a>
+<p><b>New in 1.1</b> · 3:31<br>
+Place the cues on the song, then send them to the desk: sequences, marks and BPM
+paste, then the export. One command pasted into grandMA2, and the desk runs the cues
+with the music. <a href="https://www.youtube.com/watch?v=IdgJ8q4Xi3k">Watch on YouTube</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://www.youtube.com/watch?v=pcTgkhOVEvU"><img src="docs/demo-video.jpg" alt="The Synphonos demo on YouTube: download it, set up timecode in grandMA2, press Play (2:59)"></a>
+<p><b>Recorded on 1.0</b> · 2:59<br>
+Download it, load a song, set up the timecode in grandMA2, and press Play. The window
+looks different in 1.1, and the output settings are now behind the cog in the bottom
+right corner. <a href="https://www.youtube.com/watch?v=pcTgkhOVEvU">Watch on YouTube</a></p>
+</td>
+</tr>
+</table>
 
 ## Download
 
